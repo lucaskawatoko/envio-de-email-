@@ -1,4 +1,4 @@
-<h1>Projeto de Envio de E-mail</h1>
+<h1>Projeto Envio de E-mail com anexos </h1>
 
 <p>Este projeto consiste em um script Python para enviar e-mails com conteúdo HTML formatado, utilizando a biblioteca smtplib para a parte de envio e a biblioteca email para a formatação do e-mail.</p>
 
