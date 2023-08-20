@@ -14,7 +14,7 @@
 <li>Crie um arquivo chamado segredos.py dentro da pasta segredos.</li>
 
 <li>Dentro do arquivo segredos.py, defina as seguintes variáveis:</li>
-<img src= "image.png">
+<img src= "https://cdn.discordapp.com/attachments/1099846034131259474/1142947607702933574/image.png">
 <h2>Uso</h2>
 <li>Abra o arquivo main em um editor de texto ou IDE.</li>
 <li>Modifique as variáveis destinatarios, assunto e corpo conforme necessário.</li>
